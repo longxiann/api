@@ -1,0 +1,6 @@
+hr_employee_insert_success:
+  - - userName: 朵一
+      idCard: 55555919910404122X
+      contactWay: '13120211121'
+    - code: 200
+      msg: []
